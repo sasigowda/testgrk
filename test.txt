@@ -1,5 +1,6 @@
 this is my data file
 new data in program
+data
 hi all , how are you
 ggggg
 jjjjj
